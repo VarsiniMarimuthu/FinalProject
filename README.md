@@ -43,7 +43,25 @@ Azure bot Service: Azure Bot Service powers the AI chatbot on the Burger Bliss w
 
 ### Screenshots
 
-#### Homepage
+### Homepage
 ![Screenshot 2024-05-26 171233](https://github.com/VarsiniMarimuthu/FinalProject/assets/165877162/451b5567-930a-4ae0-9834-9e3407b9c87f)
 
+### About
+![Screenshot 2024-05-26 171320](https://github.com/VarsiniMarimuthu/FinalProject/assets/165877162/d2e6a101-fb1b-46c0-96a8-293da483c9d3)
 
+### Menu
+![Screenshot 2024-05-26 171343](https://github.com/VarsiniMarimuthu/FinalProject/assets/165877162/7f8d03d5-803c-49b6-a3c2-3fad2d73dff2)
+
+###Contact
+![Screenshot 2024-05-26 171401](https://github.com/VarsiniMarimuthu/FinalProject/assets/165877162/8c689419-7011-4e58-af45-079f3ce3ea93)
+
+###Chatbot
+![Screenshot 2024-05-26 171430](https://github.com/VarsiniMarimuthu/FinalProject/assets/165877162/f2a16ef5-020e-4051-af83-8851576422d1)
+
+## Azure Portal Screenshots
+
+### Resource group and Resources:
+![Screenshot 2024-05-26 171825](https://github.com/VarsiniMarimuthu/FinalProject/assets/165877162/5f8a43ef-7601-4fa0-98bd-25eacfa0cfb5)
+
+### Azure Static WebApp
+![Screenshot 2024-05-26 171915](https://github.com/VarsiniMarimuthu/FinalProject/assets/165877162/de80440f-ec78-4216-bb6e-95e4569823b3)
