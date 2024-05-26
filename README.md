@@ -36,8 +36,8 @@ Azure bot Service: Azure Bot Service powers the AI chatbot on the Burger Bliss w
 
 
 ### Techs Stack
-**Azure Hosting, Storage, Health Bot Service**
-**HTML**
-**CSS**
-**JavaScript**
+1. **Azure Hosting, Storage, Health Bot Service**
+2. **HTML**
+3. **CSS**
+4. **JavaScript**
 
