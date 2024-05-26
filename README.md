@@ -8,3 +8,30 @@
 #### ProjectDemo Video link: 
 
 ### Azure Technologies used for project
+
+### Core Azure Services:
+
+Azure Static Web Apps: Hosts the frontend components of the integrated platform, ensuring scalability and reliability through seamless deployment from GitHub repositories.
+
+Azure Blob Storage: Azure Blob Storage is used to securely store and efficiently serve images, media, and static files for the Burger Bliss website, ensuring scalability and improved performance.
+
+### Azure AI Service:
+
+Azure bot Service: Azure Bot Service powers the AI chatbot on the Burger Bliss website, providing personalized customer interactions, answering queries, and enhancing user engagement with intelligent and responsive assistance.
+
+### Features and Functionalities:
+
+### Features and Functionalities of Burger Bliss Webpage
+
+1. **Home Page**: A welcoming and visually appealing home page that introduces users to the Burger Bliss experience with high-quality images and engaging content.
+2. **About Section**: Detailed information about our story, mission, and values, helping customers connect with the brand on a personal level.
+3. **Contact Information**: Easy access to contact details, including address, phone number, and a contact form, making it simple for customers to reach out with inquiries or feedback.
+4. **Menu**: A comprehensive and attractive menu showcasing our gourmet burger offerings, with descriptions and images to entice customers.
+5. **AI Chatbot**: An interactive and intelligent chatbot powered by Azure Bot Service, providing personalized assistance, answering questions, and enhancing user engagement.
+6. **Subscription Feature**: An option for users to subscribe to our newsletter, ensuring they receive the latest updates, promotions, and news directly to their inbox.
+7. **Dark and Light Mode**: A toggle feature allowing users to switch between dark and light modes for a customized and comfortable viewing experience.
+8. **User-Friendly Navigation**: Intuitive and straightforward navigation ensuring a seamless browsing experience across all sections of the website.
+9. **Responsive Design**: Ensures the website looks great and functions well on all devices, including desktops, tablets, and mobile phones.
+10. **Attractive Aesthetics**: Visually appealing design elements and layouts that create an engaging and enjoyable user experience.
+
+
