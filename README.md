@@ -52,10 +52,10 @@ Azure bot Service: Azure Bot Service powers the AI chatbot on the Burger Bliss w
 ### Menu
 ![Screenshot 2024-05-26 171343](https://github.com/VarsiniMarimuthu/FinalProject/assets/165877162/7f8d03d5-803c-49b6-a3c2-3fad2d73dff2)
 
-###Contact
+### Contact
 ![Screenshot 2024-05-26 171401](https://github.com/VarsiniMarimuthu/FinalProject/assets/165877162/8c689419-7011-4e58-af45-079f3ce3ea93)
 
-###Chatbot
+### Chatbot
 ![Screenshot 2024-05-26 171430](https://github.com/VarsiniMarimuthu/FinalProject/assets/165877162/f2a16ef5-020e-4051-af83-8851576422d1)
 
 ## Azure Portal Screenshots
