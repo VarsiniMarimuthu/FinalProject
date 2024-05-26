@@ -35,3 +35,10 @@ Azure bot Service: Azure Bot Service powers the AI chatbot on the Burger Bliss w
 10. **Attractive Aesthetics**: Visually appealing design elements and layouts that create an engaging and enjoyable user experience.
 
 
+### Techs Stack
+Azure Hosting, Storage, Health Bot Service
+HTML
+CSS
+Bootstrap
+JavaScript
+
