@@ -5,7 +5,7 @@
  ### This integrated healthcare platform is developed as part of the Future Ready Talent Internship program, a collaboration between Microsoft, Future Skills Prime, Quess, Github, and EY,  aims to create an engaging and interactive online platform that enhances the customer experience by combining essential information about our gourmet burger offerings with a user-friendly interface.
 
 #### Project link:  https://happy-pond-08f57e010.5.azurestaticapps.net/index.html
-#### ProjectDemo Video link: 
+#### Project Demo Video link: https://www.youtube.com/watch?v=xoD9ArLhS1s
 
 ### Azure Technologies used for project
 
