@@ -17,7 +17,7 @@ Azure Blob Storage: Azure Blob Storage is used to securely store and efficiently
 
 ### Azure AI Service:
 
-Azure bot Service: Azure Bot Service powers the AI chatbot on the Burger Bliss website, providing personalized customer interactions, answering queries, and enhancing user engagement with intelligent and responsive assistance.
+Health Bot: Health Bot powers the AI chatbot on the Burger Bliss website, providing personalized customer interactions, answering queries, and enhancing user engagement with intelligent and responsive assistance.
 
 ### Features and Functionalities:
 
